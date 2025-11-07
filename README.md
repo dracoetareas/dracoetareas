@@ -1,7 +1,9 @@
-<h1 align="center">
-  Hello, I'm Carlos - Dracoetarea
-  ![Programming Frog GIF](./programming-frog.gif)
-</h1>
+# Hello, I'm Carlos - Dracoetarea
+
+<p align="center">
+  <img src="./programming-frog.gif" alt="Programming Frog GIF" width="60">
+</p>
+
 
 
 
