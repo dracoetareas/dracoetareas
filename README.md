@@ -1,7 +1,7 @@
 # Hello, I'm Carlos - Dracoetarea
 
 <p align="center">
-  <img src="./programming-frog.gif" alt="Programming Frog GIF" width="60">
+  <img src="./programming-frog.gif" alt="Programming Frog GIF" width="500">
 </p>
 
 
