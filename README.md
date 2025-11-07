@@ -13,7 +13,7 @@
 
 ### 🎧 Music!
 
-[![Spotify]([https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645](https://open.spotify.com/intl-es/track/1jDJFeK9x3OZboIAHsY9k2))
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 ---
 
@@ -21,8 +21,8 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="Carlos Andrés Ayllón Canales | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/carlos-andr%C3%A9s-ayll%C3%B3n-canales-528560282/)
-[<img align="left" alt="Carlos Andrés Ayllón Canales | InfoJobs" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.infojobs.net/candidate/cv/view/index.xhtml?codeCv=29a9819d-82af-46ce-84b1-2b921eaa6ed8&dgv=7026681060142189187)
+[<img align="left" alt="LinkedIn" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/carlos-andr%C3%A9s-ayll%C3%B3n-canales-528560282/)
+[<img align="left" alt="InfoJobs" height="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png"/>](https://www.infojobs.net/candidate/cv/view/index.xhtml?codeCv=29a9819d-82af-46ce-84b1-2b921eaa6ed8&dgv=7026681060142189187)
 
 <br />
 
