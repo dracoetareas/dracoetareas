@@ -1,4 +1,4 @@
-# Hello, I'm Carlos - [Dracoetarea][website]
+<h1 align="center">Hello, I'm Carlos - <a href="[website]">Dracoetarea</a></h1>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -41,12 +41,6 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 
 <br/>
-
----
-
-### 🎧 Music!
-
-[![I'm Still Standing - Elton John](https://img.shields.io/badge/Now_Playing-I%27m_Still_Standing-1ED760?style=flat-square&logo=spotify&logoColor=white)
 
 ---
 
