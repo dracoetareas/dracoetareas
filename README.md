@@ -4,7 +4,7 @@
 </h1>
 
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 
 <img src="https://www.gifsanimados.org/data/media/280/estrella-imagen-animada-0014.gif" alt="estrella" height="30px" style="vertical-align: middle; margin-right: 10px;"> About me
 
