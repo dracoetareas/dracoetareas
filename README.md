@@ -6,8 +6,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<img src="https://www.gifsanimados.org/data/media/280/estrella-imagen-animada-0014.gif" alt="estrella" height="40px" style="vertical-align: middle; margin-right: 10px;"> 
-## I'm a Software Developer and Full Stack Developer
+<img src="https://www.gifsanimados.org/data/media/280/estrella-imagen-animada-0014.gif" alt="estrella" height="20px" style="vertical-align: middle; margin-right: 10px;"> ## I'm a Software Developer and Full Stack Developer
 
 - 👨‍💻 I’m currently working on SISnet360  
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅  
