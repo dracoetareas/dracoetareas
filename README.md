@@ -1,12 +1,5 @@
-# Hello, I'm Carlos - Dracoetarea
-
-<p align="center">
-  <img src="./programming-computer-frog.gif" alt="Programming Frog GIF" width="60">
-</p>
-
-
-
-
+<h1 align="center"># Hello, I'm Carlos - Dracoetarea</h1>
+<img src="./programming-computer-frog.gif" alt="Programming Frog GIF" width="60">
 
 <img src="https://www.gifsanimados.org/data/media/280/estrella-imagen-animada-0014.gif" alt="estrella" height="30px" style="vertical-align: middle; margin-right: 10px;"> About me
 
