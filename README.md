@@ -13,7 +13,7 @@
 
 ### 🎧 Music!
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://img.shields.io/badge/Spotify-I%27m%20Still%20Standing-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2)
 
 ---
 
