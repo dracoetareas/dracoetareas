@@ -13,13 +13,15 @@
 ### 📝 Contact with me
 
 [<img align="left" alt="LinkedIn" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/carlos-andr%C3%A9s-ayll%C3%B3n-canales-528560282/)
-[<img align="left" alt="InfoJobs" height="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png"/>](https://www.infojobs.net/candidate/cv/view/index.xhtml?codeCv=29a9819d-82af-46ce-84b1-2b921eaa6ed8&dgv=7026681060142189187)
+[<img align="left" alt="InfoJobs" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Infojobs-Spain.png"/>](https://www.infojobs.net/candidate/cv/view/index.xhtml?codeCv=29a9819d-82af-46ce-84b1-2b921eaa6ed8&dgv=7026681060142189187)
 
 <br/>
 
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+---
 
 ### 🛠 Stack Tech
 
@@ -44,9 +46,7 @@
 
 ### 🎧 Music!
 
-<div align="center">
-[![I'm Still Standing - Elton John](https://img.shields.io/badge/Now_Playing-I%27m_Still_Standing-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2)
-</div>
+[![I'm Still Standing - Elton John](https://img.shields.io/badge/Now_Playing-I%27m_Still_Standing-1ED760?style=flat-square&logo=spotify&logoColor=white)
 
 ---
 
