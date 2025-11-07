@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dracoetareas.dracoetareas)
 
 ### Contact with me 📝
 
