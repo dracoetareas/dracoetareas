@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello, I'm Carlos - Dracoetarea
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi GIF" height="60px" style="vertical-align: middle; margin-left: 10px;">
+  <img src="https://media.tenor.com/2vZzKXzYgYIAAAAC/programming-computer-frog.gif" alt="Programming Frog GIF" height="60px" style="vertical-align: middle; margin-left: 10px;">
 </h1>
 
 
