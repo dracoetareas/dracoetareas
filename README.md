@@ -43,8 +43,10 @@
 ---
 
 ### 🎧 Music!
-</br>
+
+<div align="center">
 [![I'm Still Standing - Elton John](https://img.shields.io/badge/Now_Playing-I%27m_Still_Standing-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2)
+</div>
 
 ---
 
