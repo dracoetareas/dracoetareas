@@ -1,6 +1,6 @@
 <h1 align="center"># Hello, I'm Carlos - Dracoetarea</h1>
 <p align="right">
-  <img src="./programming-computer-frog.gif" alt="Programming Frog GIF" width="120" height="80">
+  <img src="./RANAFONDO.gif" alt="Programming Frog GIF" width="120" height="80">
 </p>
 
 
