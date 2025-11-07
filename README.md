@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello, I'm Carlos - Dracoetarea
-  <img src="https://media.tenor.com/2vZzKXzYgYIAAAAC/programming-computer-frog.gif" alt="Programming Frog GIF" height="60px" style="vertical-align: middle; margin-left: 10px;">
+  ![Programming Frog GIF](https://media.tenor.com/2vZzKXzYgYIAAAAC/programming-computer-frog.gif)
 </h1>
 
 
