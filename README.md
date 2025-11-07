@@ -1,4 +1,8 @@
-<h1 align="center">Hello, I'm Carlos - <a href="[website]">Dracoetarea</a></h1>
+<h1 align="center">
+  Hello, I'm Carlos - Dracoetarea
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi GIF" height="60px" style="vertical-align: middle; margin-left: 10px;">
+</h1>
+
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
