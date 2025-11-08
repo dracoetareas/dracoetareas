@@ -10,7 +10,7 @@ I am passionate about learning and enjoy creating innovative, productive, and me
 • 🌱 I’m currently learning ...  
 ◦ SpringBoot  
 • ✔ Ask me about anything, i could help you!!  
-• Outside tech, 🎮love playing videogames and 🎵 listening to music ❤️  
+• Outside tech, 🎮love playing videogames and 🎵 listening to music 
 • 👾 Additionally, I'm studying for a C1 certification and trying to improve my front-end skills!  
 • 📫 Reach out to me at --- 
 <br/>
