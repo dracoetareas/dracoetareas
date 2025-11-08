@@ -20,7 +20,7 @@ I am passionate about learning and enjoy creating innovative, productive, and me
 
 <br/>
 
-<p align="right"> <img src="./RANAFONDO.gif" alt="Programming Frog GIF" width="160" height="120"> </p>
+<img src="./RANAFONDO.gif" alt="Programming Frog GIF" width="160" height="120">
 ---
 
 ### 🛠 Stack Tech
