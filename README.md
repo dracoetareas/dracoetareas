@@ -1,7 +1,7 @@
 <h1 align="center"># Hello, I'm Carlos - Dracoetarea</h1>
 
 <img src="https://www.gifsanimados.org/data/media/280/estrella-imagen-animada-0014.gif" alt="estrella" height="30px" style="vertical-align: middle; margin-right: 10px;"> About me
-<p align="right"> <img src="./RANAFONDO.gif" alt="Programming Frog GIF" width="160" height="120"> </p>
+
 I am a Software Developer, holding a Higher Vocational Degree in Software Development (DAM). I am continually expanding my expertise in both front-end and back-end development. 
 Currently, I work at SISnet 360, the core insurance platform of AVOS Tech, delivering advanced solutions for comprehensive policy management, distribution, and claims with Java. 
 I am passionate about learning and enjoy creating innovative, productive, and meaningful projects.
@@ -14,13 +14,13 @@ I am passionate about learning and enjoy creating innovative, productive, and me
 • 👾 Additionally, I'm studying for a C1 certification and trying to improve my front-end skills!  
 • 📫 Reach out to me at ---
 <br/>
+<br/>
 [<img align="left" alt="LinkedIn" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/carlos-andr%C3%A9s-ayll%C3%B3n-canales-528560282/)
 [<img align="left" alt="InfoJobs" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Infojobs-Spain.png"/>](https://www.infojobs.net/candidate/cv/view/index.xhtml?codeCv=29a9819d-82af-46ce-84b1-2b921eaa6ed8&dgv=7026681060142189187)
 
 <br/>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
+<p align="right"> <img src="./RANAFONDO.gif" alt="Programming Frog GIF" width="160" height="120"> </p>
 ---
 
 ### 🛠 Stack Tech
