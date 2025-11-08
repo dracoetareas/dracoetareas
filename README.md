@@ -1,21 +1,10 @@
 <h1 align="center"># Hello, I'm Carlos - Dracoetarea</h1>
 
 <img src="https://www.gifsanimados.org/data/media/280/estrella-imagen-animada-0014.gif" alt="estrella" height="30px" style="vertical-align: middle; margin-right: 10px;"> About me
-
-<table>
-  <tr>
-    <td>
-
-I am a Software Developer, holding a Higher Vocational Degree in Software Development (DAM). I am continually expanding my expertise in both front-end and back-end development.
-
-Currently, I work at SISnet 360, the core insurance platform of AVOS Tech, delivering advanced solutions for comprehensive policy management, distribution, and claims with Java. I am passionate about learning and enjoy creating innovative, productive, and meaningful projects.
-
-    </td>
-    <td>
-      <img src="./RANAFONDO.gif" alt="Programming Frog GIF" width="160">
-    </td>
-  </tr>
-</table>
+<p align="right"> <img src="./RANAFONDO.gif" alt="Programming Frog GIF" width="160" height="120"> </p>
+I am a Software Developer, holding a Higher Vocational Degree in Software Development (DAM). I am continually expanding my expertise in both front-end and back-end development. 
+Currently, I work at SISnet 360, the core insurance platform of AVOS Tech, delivering advanced solutions for comprehensive policy management, distribution, and claims with Java. 
+I am passionate about learning and enjoy creating innovative, productive, and meaningful projects.
 
 
 • 🌱 I’m currently learning ...  
